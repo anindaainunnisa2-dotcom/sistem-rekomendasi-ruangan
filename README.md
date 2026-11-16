@@ -95,9 +95,12 @@ Jika tidak terdapat ruangan yang memenuhi kriteria, sistem menampilkan informasi
 
 Tambahkan minimal tiga screenshot hasil aplikasi pada bagian ini:
 
-1. Tampilan Dashboard.
-2. Tampilan Data Ruangan dan Jadwal.
-3. Tampilan Form dan Hasil Rekomendasi.
+<img width="1366" height="768" alt="Hasil Aplikasi SIAP" src="https://github.com/user-attachments/assets/0469f80d-e6f7-4889-866e-9752a86696a4" />
+
+<img width="1366" height="768" alt="Halaman TENTANG" src="https://github.com/user-attachments/assets/e22dbeb8-4769-4c08-a6ad-d52820be72ed" />
+
+<img width="1366" height="768" alt="Hasil Aplikasi" src="https://github.com/user-attachments/assets/aa973d56-bf7a-4821-9bae-f6438962c14d" />
+
 
 ## Teknologi yang Digunakan
 
